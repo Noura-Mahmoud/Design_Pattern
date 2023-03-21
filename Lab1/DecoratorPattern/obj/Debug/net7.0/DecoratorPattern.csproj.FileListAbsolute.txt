@@ -1,0 +1,15 @@
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\bin\Debug\net7.0\DecoratorPattern.exe
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\bin\Debug\net7.0\DecoratorPattern.deps.json
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\bin\Debug\net7.0\DecoratorPattern.runtimeconfig.json
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\bin\Debug\net7.0\DecoratorPattern.dll
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\bin\Debug\net7.0\DecoratorPattern.pdb
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\obj\Debug\net7.0\DecoratorPattern.csproj.AssemblyReference.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\obj\Debug\net7.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\obj\Debug\net7.0\DecoratorPattern.AssemblyInfoInputs.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\obj\Debug\net7.0\DecoratorPattern.AssemblyInfo.cs
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\obj\Debug\net7.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\obj\Debug\net7.0\DecoratorPattern.dll
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\obj\Debug\net7.0\refint\DecoratorPattern.dll
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\obj\Debug\net7.0\DecoratorPattern.pdb
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\obj\Debug\net7.0\DecoratorPattern.genruntimeconfig.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\DecoratorPattern\obj\Debug\net7.0\ref\DecoratorPattern.dll

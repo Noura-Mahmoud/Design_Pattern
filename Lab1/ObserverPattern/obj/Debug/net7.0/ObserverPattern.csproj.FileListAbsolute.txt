@@ -1,0 +1,15 @@
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\bin\Debug\net7.0\ObserverPattern.exe
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\bin\Debug\net7.0\ObserverPattern.deps.json
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\bin\Debug\net7.0\ObserverPattern.runtimeconfig.json
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\bin\Debug\net7.0\ObserverPattern.dll
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\bin\Debug\net7.0\ObserverPattern.pdb
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\obj\Debug\net7.0\ObserverPattern.csproj.AssemblyReference.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\obj\Debug\net7.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\obj\Debug\net7.0\ObserverPattern.AssemblyInfoInputs.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\obj\Debug\net7.0\ObserverPattern.AssemblyInfo.cs
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\obj\Debug\net7.0\ObserverPattern.csproj.CoreCompileInputs.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\obj\Debug\net7.0\ObserverPattern.dll
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\obj\Debug\net7.0\refint\ObserverPattern.dll
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\obj\Debug\net7.0\ObserverPattern.pdb
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\obj\Debug\net7.0\ObserverPattern.genruntimeconfig.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\ObserverPattern\obj\Debug\net7.0\ref\ObserverPattern.dll

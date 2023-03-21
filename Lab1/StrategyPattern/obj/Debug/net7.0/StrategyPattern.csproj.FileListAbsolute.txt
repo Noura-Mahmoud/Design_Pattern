@@ -1,0 +1,15 @@
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\bin\Debug\net7.0\StrategyPattern.exe
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\bin\Debug\net7.0\StrategyPattern.deps.json
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\bin\Debug\net7.0\StrategyPattern.runtimeconfig.json
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\bin\Debug\net7.0\StrategyPattern.dll
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\bin\Debug\net7.0\StrategyPattern.pdb
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.AssemblyReference.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfoInputs.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.AssemblyInfo.cs
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.csproj.CoreCompileInputs.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.dll
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\obj\Debug\net7.0\refint\StrategyPattern.dll
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.pdb
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\obj\Debug\net7.0\StrategyPattern.genruntimeconfig.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\StrategyPattern\obj\Debug\net7.0\ref\StrategyPattern.dll

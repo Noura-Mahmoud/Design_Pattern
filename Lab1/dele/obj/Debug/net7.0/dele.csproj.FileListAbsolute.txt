@@ -1,0 +1,15 @@
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\bin\Debug\net7.0\dele.exe
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\bin\Debug\net7.0\dele.deps.json
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\bin\Debug\net7.0\dele.runtimeconfig.json
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\bin\Debug\net7.0\dele.dll
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\bin\Debug\net7.0\dele.pdb
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\obj\Debug\net7.0\dele.csproj.AssemblyReference.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\obj\Debug\net7.0\dele.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\obj\Debug\net7.0\dele.AssemblyInfoInputs.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\obj\Debug\net7.0\dele.AssemblyInfo.cs
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\obj\Debug\net7.0\dele.csproj.CoreCompileInputs.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\obj\Debug\net7.0\dele.dll
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\obj\Debug\net7.0\refint\dele.dll
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\obj\Debug\net7.0\dele.pdb
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\obj\Debug\net7.0\dele.genruntimeconfig.cache
+F:\ITI_mobile cross\Design pattern\Labs\Lab1\dele\obj\Debug\net7.0\ref\dele.dll
